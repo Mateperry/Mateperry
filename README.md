@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/banner.png)
+![Banner]([https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/banner.png](https://github.com/Mateperry/Mateperry/blob/main/image.png))
 
 # 👋 Hola, mi nombre es Mateo Castro Useche / Hi, my name is Mateo Castro Useche
 
