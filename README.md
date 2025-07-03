@@ -1,4 +1,5 @@
-![Banner]([https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/banner.png](https://github.com/Mateperry/Mateperry/blob/main/image.png))
+![Banner](https://raw.githubusercontent.com/Mateperry/Mateperry/main/image.png)
+
 
 # 👋 Hola, mi nombre es Mateo Castro Useche / Hi, my name is Mateo Castro Useche
 
@@ -37,10 +38,5 @@ Here are some of the projects I’ve been working on:
 
 ---
 
-## 📊 Estadísticas / GitHub Stats
-
-![Mateo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateocastro&show_icons=true&theme=radical&locale=es)
-
----
 
 Gracias por visitar mi perfil 🤝 / Thanks for visiting my profile 🤝
